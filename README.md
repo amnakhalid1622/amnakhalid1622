@@ -16,7 +16,7 @@
 
 <div align="center">
   <!-- Add your custom banner image here -->
-  <img src="https://github.com/yourusername/yourusername/blob/main/banner.png" alt="Amna Khalid | Web Developer & SEO Specialist">
+  <img src="https://github.com/amnakhalid1622/amnakhalid1622/blob/main/Linkedin%20banner.png" alt="Amna Khalid | Web Developer & SEO Specialist">
 </div>
 
 <h2 align="center">💼 Tech Toolbox 🧰</h2>
