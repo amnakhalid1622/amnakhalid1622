@@ -71,7 +71,7 @@ delivering scalable and results-driven solutions.
 </p>
 
 <p align="center">
-  <a href="https://github.com/yourusername?tab=repositories">
+  <a href="https://github.com/amnakhalid1622?tab=repositories">
     <img src="https://img.shields.io/badge/Check_Out-My_Projects-green?style=for-the-badge" />
   </a>
 </p>
