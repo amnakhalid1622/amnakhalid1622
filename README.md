@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/amna-khalid-436a06251" target="_blank">
-    <img src="https://github.com/amnakhalid1622/amnakhalid1622/blob/main/Linkedin%20banner.png"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Amna%20Khalid-blue?style=for-the-badge&logo=linkedin" />
   </a>
 </p>
 
