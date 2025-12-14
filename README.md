@@ -96,10 +96,9 @@ Jun 2024 – Jan 2025
 <h2 align="center">🌱 Currently Improving</h2>
 
 <p align="center">
-<code>Advanced PHP</code>
-<code>WordPress Architecture</code>
+<code>MERN Stack</code>
+<code>Software Deployment</code>
 <code>SEO Strategy</code>
-<code>Performance Optimization</code>
 </p>
 
 ---
